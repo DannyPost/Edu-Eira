@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065034490111",
+    "project_id": "tir-oideachas",
+    "storage_bucket": "tir-oideachas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065034490111:android:9fde546af0cc63635eacca",
+        "android_client_info": {
+          "package_name": "com.mycompany.tiroideachas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCygufLFAsZjLv4McjHYAJZXgz0a250c6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
